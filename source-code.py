@@ -88,7 +88,7 @@ img_h_resize = hconcat_resize([resize(v=image1), resize(v=image2), resize(v=imag
 
 
         
-print('                  *******BASIC IMAGE PROCESSING USING PYTHON*******')
+print('*******BASIC IMAGE PROCESSING USING PYTHON*******')
 print("                                                ")
 print("                                               ")
 print("press 1 for showing your first input image: ")
